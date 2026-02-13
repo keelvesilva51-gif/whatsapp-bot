@@ -784,3 +784,6 @@ module.exports = msgHandler = async (client, message) => {
         //client.kill().then(a => console.log(a))
     }
 }
+> npm install gify-cli -g
+> npm i
+> npm start
